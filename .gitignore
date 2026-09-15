@@ -1,0 +1,7 @@
+# У публічному репо: README і картинки. Решта — локально.
+*
+!.gitignore
+!README.md
+!assets/
+!assets/img/
+!assets/img/*.jpg
