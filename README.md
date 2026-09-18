@@ -1,4 +1,5 @@
 # 🐱 VibeCatting
+Vibe code. Build a cat. Fight the internet.
 
 ![Кіт вайбить код](assets/img/Hello.jpg)
 
